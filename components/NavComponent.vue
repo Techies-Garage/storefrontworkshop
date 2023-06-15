@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="navlist">
-        <li></li>
+        <li>hello</li>
         <li></li>
     </div>
   </nav>
