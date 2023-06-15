@@ -1,5 +1,10 @@
 <template>
-  <NavComponent/>
+  <div>
+    <NavComponent/>
+    <HeroComponent/>
+    <NewArrivalComponent/>
+    <ShoppingGuideComponent />
+  </div>
 </template>
 
 <script>
