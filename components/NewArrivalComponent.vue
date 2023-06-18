@@ -148,7 +148,7 @@
     </section>
 </template>
 
-<style>
+<style scoped>
     /* New arrival section styles ************/
 .new-arrivals-section {
     font-family: var(--Manrope-font-family);

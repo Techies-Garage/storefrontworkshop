@@ -64,19 +64,8 @@ export default {
 }
 </script>
 
-<style>
-
-html {
-    font-size: 16px;
-}
-
-body {
-    font-family: var(--Manrope-font-family); 
-}
+<style scoped>
 .hide-for-desktop {
-    display: none;
-}
-.hide {
     display: none;
 }
 .nav-container {
@@ -138,7 +127,6 @@ body {
     font-family: 'Inter', sans-serif;
 }
 .primary-nav-bar {
-    /* background: yellow; */
     height: 48px;
 }
 .cart-like-login {

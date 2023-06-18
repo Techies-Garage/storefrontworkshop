@@ -21,14 +21,7 @@
 
 </script>
 
-<style>
-html {
-    font-size: 16px;
-}
-
-body {
-    font-family: var(--Manrope-font-family); 
-}
+<style scoped>
 .hide-for-desktop {
     display: none;
 }
@@ -38,6 +31,7 @@ body {
 
 /* Bannner section **********************/
 .main-banner {
+    font-family: var(--Manrope-font-family);
     position: relative;
     margin-block-end: 66px;
 }

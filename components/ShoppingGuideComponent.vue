@@ -21,9 +21,10 @@
     </section>
 </template>
 
-<style>
+<style scoped>
     /*  shopping section ********************/
 .shopping-banner-section {
+    font-family: var(--Manrope-font-family);
     position: relative;
     margin-block-end: 66px;
 }
