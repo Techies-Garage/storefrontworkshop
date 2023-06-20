@@ -4,6 +4,7 @@
     <HeroComponent/>
     <NewArrivalComponent/>
     <ShoppingGuideComponent />
+    <WomenFashionComponent />
   </div>
 </template>
 
